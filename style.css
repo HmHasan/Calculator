@@ -1,0 +1,45 @@
+*
+{
+    font-family: 'Orbitron', sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+}
+
+.calck
+{
+    width: 360px;
+    margin: 0 auto;
+    border-radius: 12px;
+    background:#39383d;
+    padding: 20px;
+
+}
+
+input.disply {
+    border: none;
+    background: #a2afa7;
+    height: 75px;
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    color: #eee;
+
+}
+
+input[type="button"] {
+    width: 75px;
+    height: 75px;
+    margin: 6px;
+    border-radius: 8px;
+    color: #fff;
+    background: #58595b;
+    border: none;
+
+}
+
+
+input:focus
+{
+    outline: none;
+}
